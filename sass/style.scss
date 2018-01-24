@@ -1,0 +1,32 @@
+body {
+	background: gray;
+	text-align: center;
+}
+
+h1 {
+	color: yellow;
+}
+
+.create-column {
+	background: #40f907;
+}
+
+
+.column {
+	background: #ffff00;
+	display: inline-block;
+	margin: 50px;
+	padding: 20px;
+
+	ul {
+		text-transform: uppercase;
+	}
+}
+
+.btn-delete {
+	background: red;
+}
+	
+.add-card {
+	background: #40f907;
+}
